@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=200&section=header&text=Luis%20Cortes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
 <h1 align="center">
 Luis Cortes
 </h1>
@@ -121,7 +119,3 @@ Panama 🇵🇦
 I enjoy building tools and systems that **empower creators and expand what games can do**.
 
 ---
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:0f0f0f&height=120&section=footer"/>
-</p>
