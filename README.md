@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Luis
 
-<!--
-**pammsitoh/pammsitoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Developer from Panama 🇵🇦
 
-Here are some ideas to get you started:
+## 🚀 What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Minecraft Bedrock Addons
+- Game Development
+- Creative Coding
+- Tools for Developers
+
+## 🧰 Tech
+
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![Node](https://img.shields.io/badge/Node.js-green)
+![Minecraft](https://img.shields.io/badge/Minecraft-AddonDev-brightgreen)
+
+## 📊 Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=TUUSER&show_icons=true)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSER&layout=compact)
